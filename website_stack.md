@@ -9,3 +9,9 @@
 - Intecoolerjs
 - sentry. monitoring website bugs
 - Github Actions
+
+
+
+
+## Reference
+- https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/
